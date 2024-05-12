@@ -1,6 +1,6 @@
 {
   "name": "@vearvip/hanzi-radical-stroke-counts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "查询汉字的部首和笔画，数据爬取自汉典网",
   "main": "src/index.js",
   "scripts": {
