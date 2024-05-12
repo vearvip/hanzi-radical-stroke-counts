@@ -1,0 +1,21 @@
+{
+  "name": "@vearvip/hanzi-radical-stroke-counts",
+  "version": "1.0.0",
+  "description": "查询汉字的部首和笔画，数据爬取自汉典网",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vearvip",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vearvip/hanzi-radical-stroke-counts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vearvip/hanzi-radical-stroke-counts/issues"
+  },
+  "homepage": "https://github.com/vearvip/hanzi-radical-stroke-counts#readme"
+}
