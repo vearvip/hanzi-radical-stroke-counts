@@ -45,14 +45,7 @@ console.log(result); // 输出：[ "页", 15 ]
 - 本包仅支持查询汉字的部首及总笔画数，不包含其他诸如读音、释义等信息。
 - 请确保查询的汉字存在于数据源中，未收录的罕见或特殊汉字可能无法返回结果。
 - 如需查询汉字读音信息，请使用[@vearvip/hanzi-readings](https://github.com/vearvip/hanzi-readings)这个npm包。
- 
-
-## 贡献
-- 请确保查询的汉字存在于数据源中，未收录的罕见或特殊汉字可能无法返回结果。
-- 本包仅提供查询功能，不包含汉字的其他诸如读音、释义等信息。
-- 如需查询汉字读音信息，请使用[@vearvip/hanzi-readings](https://github.com/vearvip/hanzi-readings)这个npm包
- 
-
+  
 ## 贡献
 
 如有任何问题或建议，请在GitHub上提交issue，我们会尽快响应。希望本包能为您的项目带来便利！
