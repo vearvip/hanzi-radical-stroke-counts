@@ -1,3 +1,3 @@
-import { queryRadicalStrokeCounts } from '../src/index'
+import { queryRadicalStrokeCount } from "../src/index";
 
-console.log("张", queryRadicalStrokeCounts('张'))
+console.log("张", queryRadicalStrokeCount("张"));

@@ -20,13 +20,13 @@ yarn add @vearvip/hanzi-radical-stroke-counts
 
 ## 使用方法
 
-导入`queryRadicalStrokeCounts`函数，并传入您想查询的汉字作为参数，函数将返回一个数组，其中包含汉字的部首和总笔画数。
+导入`queryRadicalStrokeCount`函数，并传入您想查询的汉字作为参数，函数将返回一个数组，其中包含汉字的部首和总笔画数。
 
 ```javascript
-import { queryRadicalStrokeCounts } from '@vearvip/hanzi-radical-stroke-counts';
+import { queryRadicalStrokeCount } from '@vearvip/hanzi-radical-stroke-counts';
 
 const hanzi = '额';
-const result = queryRadicalStrokeCounts(hanzi);
+const result = queryRadicalStrokeCount(hanzi);
 console.log(result); // 输出：[ "页", 15 ]
 
 // 解释：汉字"额"的部首是"页"，总笔画数为15。
